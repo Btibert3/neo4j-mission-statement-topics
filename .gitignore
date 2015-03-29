@@ -1,0 +1,5 @@
+archive/
+*.ipynb
+.Rhistory
+data/
+output/
